@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://typescript-page-jtcfred.vercel.app/JacksonCozziResume.pdf](https://typescript-page-jtcfred.vercel.app/JacksonCozziResume.pdf)
 
-- ⚡ Fun fact **I play lots of Rocket League**
+- ⚡ Fun fact **I play lots of Factorio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
