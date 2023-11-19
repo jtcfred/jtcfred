@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">A silly developer from Clemson University</h3>
 
-- 🔭 I’m currently working on [My girlfriend's birthday website](https://github.com/jtcfred/jordan-stortz-birthday)
+- 🔭 I’m currently working on [This Birthday Website](https://github.com/jtcfred/jordan-stortz-birthday)
 
 - 🌱 I’m currently learning **Java Spring**
 
