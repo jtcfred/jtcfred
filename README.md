@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">A silly developer from Clemson University</h3>
+<h3 align="center">A developer from Clemson University, now working at LPL Financial</h3>
 
-- 🔭 I’m currently working on [This Birthday Website](https://github.com/jtcfred/jordan-stortz-birthday)
+- 🔭 I’m currently working on [yo mama]
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jtcfred?tab=repositories](https://github.com/jtcfred?tab=repositories)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://typescript-page-jtcfred.vercel.app/JacksonCozziResume.pdf](https://typescript-page-jtcfred.vercel.app/JacksonCozziResume.pdf)
 
-- ⚡ Fun fact **I play lots of Factorio**
+- ⚡ Fun fact **I play lots of Modded Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
